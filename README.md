@@ -124,5 +124,5 @@ Key features include:
 ## 🚀 Installation
 
 ```bash
-git clone <https://github.com/khaledabdelazim7/Music-Popularity-Prediction-Audio-Pattern-Discovery>
+git clone https://github.com/khaledabdelazim7/Music-Popularity-Prediction-Audio-Pattern-Discovery
 
