@@ -4,18 +4,6 @@
 This project develops a full end-to-end pipeline for predicting music popularity and discovering hidden audio patterns using the **Spotify Tracks Dataset**.  
 It integrates **data preprocessing**, **supervised learning**, **unsupervised clustering**, **deep learning**, and an interactive **xg boost app**.
 
----
-
-## Table of Contents
-
-* [Data Preprocessing](#data-preprocessing)
-* [Exploratory Data Analysis](#exploratory-data-analysis)
-* [Supervised Machine Learning](#supervised-machine-learning)
-* [Unsupervised Machine Learning](#unsupervised-machine-learning)
-* [Deep Learning](#deep-learning)
-* [Deployment](#deployment)
-* [Installation](#installation)
-
 -----
 
 ## 📂 Dataset  
